@@ -1,4 +1,4 @@
-import Scanner;
+import java.util.Scanner;
 
 class EvenOddCheck {
     public static void main(String[] args) {
