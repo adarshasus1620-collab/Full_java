@@ -9,10 +9,15 @@ public class emo {
         float f = 10.54f;
         double d = 25.9696;
 
+        // Character 
+        char c = 'a';
+
+
 
         System.out.println("Integer value --->" +b +" , "  + s + " , " + i + " , " +l );
         System.out.println("Floting value --->" + f +" , "+ d );
-
+        System.out.println("Character value --->" + c );
+        
      
     }
 }
