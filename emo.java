@@ -12,11 +12,15 @@ public class emo {
         // Character 
         char c = 'a';
 
+        //Boolen  
+        boolean bool =  false;
+
 
 
         System.out.println("Integer value --->" +b +" , "  + s + " , " + i + " , " +l );
         System.out.println("Floting value --->" + f +" , "+ d );
         System.out.println("Character value --->" + c );
+        System.out.println("Character value --->" + bool );
         
      
     }
