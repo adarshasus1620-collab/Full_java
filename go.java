@@ -38,7 +38,9 @@ public class go {
         // i= bool
 
         byte b = 50;
-        b = b * 2;
+        b = (byte) (b * 2);
+        System.out.println(b);
+
         
 
 
