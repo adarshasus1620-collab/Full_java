@@ -9,6 +9,11 @@ public class elo {
 
         double result = (f * b) + (i / c) - (d * s);
 
+        // float f*b 
+        // integer i/c
+        // doubel d*s
+        
+
         System.out.println((f * b) + " + " + (i / c) + " - " +  (d * s));
         System.out.println("result = " + result);
         
