@@ -5,7 +5,7 @@ public class elo {
         short s = 1024;
         int i = 50000;
         float f = 5.67f;
-        double d = .1234;
+        double d = 0.1234;
 
         double result = (f * b) + (i / c) - (d * s);
 
