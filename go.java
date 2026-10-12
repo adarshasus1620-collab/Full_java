@@ -19,13 +19,19 @@ public class go {
 
         //explicit conversion
 
-        int i = 300;
-        byte b; // explicit conversion (int to byte)
+        // int i = 300;
+        // byte b; // explicit conversion (int to byte)
 
-        b = (byte) i;
-        System.out.println(b);
+        // b = (byte) i;
+        // System.out.println(b);
 
-        // 
+        // Truncation conversion 
+        float f = 15.678f;
+        int i;
+
+        i = (int) f;
+        System.out.println(i);
+
 
 
 
