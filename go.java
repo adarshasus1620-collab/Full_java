@@ -26,11 +26,22 @@ public class go {
         // System.out.println(b);
 
         // Truncation conversion 
-        float f = 15.678f;
-        int i;
+        // float f = 15.678f;
+        // int i;
 
-        i = (int) f;
-        System.out.println(i);
+        // i = (int) f;
+        // System.out.println(i);
+
+        //boolean to any data type 
+        // these conversions are not possible in java 
+
+        // i= bool
+
+        byte b = 50;
+        b = b * 2;
+        
+
+
 
 
 
