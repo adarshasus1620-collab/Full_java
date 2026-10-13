@@ -17,7 +17,13 @@ class Helloworld {
         System.out.println(c + " , " + d + " , " + e + " , " + f + " , " + g);
 
 
+        //int h = a + 2;// this is okey in coding
         int h = a + 2;
+        h += 2;
+        h -= 2;
+        h *= 3;
+        h /= 5;
+        h %= 5;
         System.out.println(h);
         
 
