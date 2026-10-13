@@ -36,6 +36,20 @@ public class tempCodeRunnerFile {
         System.out.println(i);
 
 
+        // pre increment and  post inncrement
+        int j = 7;
+        j++; // post increment
+        ++j; // pre increment
+        //  j=9
+
+        int k = j++;
+        int l = ++j;
+        
+
+        System.out.println(j);
+
+
+
 
 
 
