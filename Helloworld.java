@@ -25,6 +25,26 @@ class Helloworld {
         h /= 5;
         h %= 5;
         System.out.println(h);
+
+        int i = 6;
+        i++; 
+        i--;
+
+
+        System.out.println(i);
+
+        // pre increment and post increment
+        int j = 7;
+        j++;
+        ++j;
+
+        int k = j++;
+        int l = ++j;
+        
+
+        System.out.println(j);
+
+
         
 
     }

@@ -42,8 +42,8 @@ public class tempCodeRunnerFile {
         ++j; // pre increment
         //  j=9
 
-        int k = j++;
-        int l = ++j;
+        int l = j++;
+        int v = ++j;
         
 
         System.out.println(j);
