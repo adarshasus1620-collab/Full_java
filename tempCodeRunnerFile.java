@@ -15,6 +15,29 @@ public class tempCodeRunnerFile {
 
         System.out.println(c+ "," + d + "," + e + "," + f + "," + g);
 
+        int h = a + 2;
+
+        // h = h + 2; // this is okey in coding  
+        h += 2; // this is shorthand for the above
+
+        h -= 2;
+        h *= 3;
+        h /= 5;
+        h %= 5;
+
+
+        System.out.println(h);
+
+        int i = 6;
+        
+
+        i++; // i = i + 1
+        i--; // i = i - 1
+        System.out.println(i);
+
+
+
+
 
 
 
