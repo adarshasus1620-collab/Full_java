@@ -17,6 +17,10 @@ public class demo3 {
 
         System.out.println(e);
         System.out.println(f);
+        boolean g = (a > b);
+        boolean h = (a >= b);
+        System.out.println(g);
+        System.out.println(h);
 
     }
 
