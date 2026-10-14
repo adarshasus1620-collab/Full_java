@@ -1,6 +1,7 @@
 public class demo3 {
     public static void main(String[] args) {
         // Realtional Oprators
+        // ==, !=, <, >, <=, >=
         int b = 10;
         int a = 10;
 
