@@ -21,6 +21,8 @@ public class demo3 {
         boolean h = (a >= b);
         System.out.println(g);
         System.out.println(h);
+        // Logical Operators
+
 
     }
 
