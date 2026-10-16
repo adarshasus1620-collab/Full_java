@@ -16,6 +16,12 @@ public class oprat {
         g = g << 1;
         System.out.println(g);
 
+        // right shift 
+
+        byte  h = 1;
+        h = (byte) (h << 1); 
+        System.out.println(h);
+
 
 
     }
