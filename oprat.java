@@ -19,7 +19,7 @@ public class oprat {
         // right shift 
 
         byte  h = 1;
-        h = (byte) (h << 1); 
+        h = (byte) (h << 1);  
         System.out.println(h);
 
 
