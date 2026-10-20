@@ -36,18 +36,20 @@ public class Hello {
     // }
 
     // If -else - If Ladder 
-     if(i == 5){
-        System.out.println("i id 5");
+    //  if(i == 5){
+    //     System.out.println("i id 5");
 
-      }
-     else if (i == 6) {
-        System.out.println("i is 6");
+    //   }
+    //  else if (i == 6) {
+    //     System.out.println("i is 6");
         
-      }
-     else if (i == 7) {
-        System.out.println("i is 7");
+    //   }
+    //  else if (i == 7) {
+    //     System.out.println("i is 7");
         
-      }
+    //   }
+
+    if(age > 80)
         
     }
     
