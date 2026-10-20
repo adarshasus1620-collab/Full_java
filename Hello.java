@@ -52,7 +52,20 @@ public class Hello {
 
 
     if(age > 80){
-        
+        System.out.println ("your very old");
+
+    }
+    else if(age > 60){
+        System.out.println( "your are old");
+    }
+    else if(age > 40){
+        System.out.println("your are becoming Old");
+    }
+    else if(age > 20){
+        System.out.println("Your are young");
+    }
+    else{
+        System.out.println("your a Childishh Person");
     }
         
     }  
