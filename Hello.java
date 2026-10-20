@@ -13,11 +13,26 @@ public class Hello {
     //     System.out.println("i is not 5");
     //  }
 
-    if(i % 2 == 0 ){
-        System.out.println( "i is even number" );
+    // if(i % 2 == 0 ){
+    //     System.out.println( "i is even number" );
+    // }
+    // else{
+    // //     System.out.println( "i is odd");
+    // }
+
+    //Nestedifs
+    
+    if (i > 5) {
+        if (i < 10) {
+            
+            
+        }
+        else{
+
+        }
     }
     else{
-        System.out.println( "i is odd");
+
     }
         
     }
