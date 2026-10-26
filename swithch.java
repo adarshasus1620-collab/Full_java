@@ -17,7 +17,28 @@ public class swithch {
                 System.out.println("i is Grater than 3");
                 break;
                  
+              
 
+        int j = 5;
+        int k = 1;
+
+
+        switch (j) {
+            case 4:
+                System.out.println("j is 4")
+                break;
+            case 5:
+                switch(k){
+                    case 1:
+                        break;
+                    case 2:
+                        break;
+                }
+                
+            default:
+                System.out.println("j is not 4 & 5");
+                break;
+        }
         }
     }
 }        
