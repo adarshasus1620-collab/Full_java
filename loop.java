@@ -20,9 +20,16 @@ public class loop {
         
     // }while(i <= 10);
        
-    for(int i = 1; i <= 10; i++){
-        System.out.println(i);
+    // for(int i = 1; i <= 10; i++){
+    //     System.out.println(i);
 
-    }
+    // }
+
+    // int i = 5;
+
+    for(int i = 1; i < 10; i++){
+        System.out.println("Hello");
+    } 
+
     }
 }
