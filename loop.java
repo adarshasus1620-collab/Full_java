@@ -27,10 +27,20 @@ public class loop {
 
     // int i = 5;
 
-    for(int i = 1; i < 10; i++){
-        System.out.println("Hello");
-    } 
+    // for(int i = 1; i <= 10; i++){
+    //     System.out.println(i * i);
+    // } 
 
+
+    // boolean b = true;
+    // for(int )
+    // }
+
+    // Nested loop 
+    for(int i = 1; i <= 5; i++){
+        for(int j = 1; j <= 5; j++){
+            System.out.println(i);
+        }
     }
 }
 
